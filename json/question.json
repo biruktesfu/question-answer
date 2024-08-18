@@ -1,0 +1,68 @@
+[
+  {
+    "question": "What is the capital city of France?",
+    "choice": ["Paris", "London", "Rome", "Berlin"],
+    "answer": 0,
+    "submittedAnswer": -1,
+    "disabled": false
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "choice": ["Mars", "Earth", "Jupiter", "Saturn"],
+    "answer": 0,
+    "submittedAnswer": -1,
+    "disabled": false
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "choice": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "answer": 1,
+    "submittedAnswer": -1,
+    "disabled": false
+  },
+  {
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "choice": [
+      "Charlotte Brontë",
+      "Jane Austen",
+      "Emily Dickinson",
+      "Mary Shelley"
+    ],
+    "answer": 1,
+    "submittedAnswer": -1,
+    "disabled": false
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "choice": ["Au", "Ag", "Pb", "Fe"],
+    "answer": 0,
+    "submittedAnswer": -1,
+    "disabled": false
+  },
+  {
+    "question": "Which ocean is the largest by surface area?",
+    "choice": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "answer": 3,
+    "submittedAnswer": -1,
+    "disabled": false
+  },
+  {
+    "question": "In what year did the Titanic sink?",
+    "choice": ["1912", "1905", "1923", "1898"],
+    "answer": 0,
+    "submittedAnswer": -1,
+    "disabled": false
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "choice": ["Gold", "Iron", "Diamond", "Platinum"],
+    "answer": 2,
+    "submittedAnswer": -1,
+    "disabled": false
+  }
+]
