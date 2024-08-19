@@ -16,6 +16,10 @@ export default function Home() {
     "red_tree.jpg",
     "trees.avif",
     "wavy_tree.avif",
+    "trees.avif",
+    "wavy_tree.avif",
+    "red_tree.jpg",
+    "trees.avif",
   ];
   const [treeCount, setTreeCount] = useState(0);
   const [progress, setProgress] = useState(0);
@@ -50,9 +54,6 @@ export default function Home() {
       }
     });
     setResult(`${count}/${answers.length}`);
-    if (selected === answers.length) {
-      console.log("exam finished ");
-    }
   }, [selected]);
 
   const displayQuestions = answers
@@ -121,6 +122,21 @@ export default function Home() {
                     className={styles.circle}
                     style={{
                       backgroundColor: submittedAnswer === 3 ? "black" : "",
+                    }}
+                  ></span>
+                </span>
+              </div>
+              <div className={styles.choice}>
+                <span
+                  className={styles.singleChoice}
+                  style={{ width: "47%" }}
+                  onClick={() => submitAnswer(index, 4)}
+                >
+                  {choice[4]}{" "}
+                  <span
+                    className={styles.circle}
+                    style={{
+                      backgroundColor: submittedAnswer === 4 ? "black" : "",
                     }}
                   ></span>
                 </span>

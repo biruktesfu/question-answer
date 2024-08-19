@@ -1,21 +1,21 @@
 [
   {
     "question": "What is the capital city of France?",
-    "choice": ["Paris", "London", "Rome", "Berlin"],
+    "choice": ["Paris", "London", "Rome", "Berlin", "Madrid"],
     "answer": 0,
     "submittedAnswer": -1,
     "disabled": false
   },
   {
     "question": "Which planet is known as the Red Planet?",
-    "choice": ["Mars", "Earth", "Jupiter", "Saturn"],
+    "choice": ["Mars", "Earth", "Jupiter", "Saturn", "Venus"],
     "answer": 0,
     "submittedAnswer": -1,
     "disabled": false
   },
   {
     "question": "What is the largest mammal in the world?",
-    "choice": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "choice": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus", "Orca"],
     "answer": 1,
     "submittedAnswer": -1,
     "disabled": false
@@ -26,7 +26,8 @@
       "Charlotte Brontë",
       "Jane Austen",
       "Emily Dickinson",
-      "Mary Shelley"
+      "Mary Shelley",
+      "Louisa May Alcott"
     ],
     "answer": 1,
     "submittedAnswer": -1,
@@ -34,7 +35,7 @@
   },
   {
     "question": "What is the chemical symbol for gold?",
-    "choice": ["Au", "Ag", "Pb", "Fe"],
+    "choice": ["Au", "Ag", "Pb", "Fe", "Hg"],
     "answer": 0,
     "submittedAnswer": -1,
     "disabled": false
@@ -45,7 +46,8 @@
       "Atlantic Ocean",
       "Indian Ocean",
       "Arctic Ocean",
-      "Pacific Ocean"
+      "Pacific Ocean",
+      "Southern Ocean"
     ],
     "answer": 3,
     "submittedAnswer": -1,
@@ -53,14 +55,14 @@
   },
   {
     "question": "In what year did the Titanic sink?",
-    "choice": ["1912", "1905", "1923", "1898"],
+    "choice": ["1912", "1905", "1923", "1898", "1915"],
     "answer": 0,
     "submittedAnswer": -1,
     "disabled": false
   },
   {
     "question": "What is the hardest natural substance on Earth?",
-    "choice": ["Gold", "Iron", "Diamond", "Platinum"],
+    "choice": ["Gold", "Iron", "Diamond", "Platinum", "Emerald"],
     "answer": 2,
     "submittedAnswer": -1,
     "disabled": false
